@@ -1,0 +1,23 @@
+ header {
+    color:palevioletred;
+  }
+  
+  .container {
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  input[type="number"] {
+    font-size: 1.2rem;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  #current-time {
+    font-size: 3rem;
+  }
+  #countdown-complete{
+    color:blue;
+  }
+  
